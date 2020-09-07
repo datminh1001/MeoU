@@ -2,3 +2,4 @@
 ##techstack
 - mvc
 - entity framework core
+- mysql
